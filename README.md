@@ -7,8 +7,6 @@
 *Predicting indoor air pollution before it happens — and acting on it automatically.*
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge)](https://thermo-plume-fq4jflamtmn63a8nozg9cp.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Working_Prototype-brightgreen?style=for-the-badge)
 
 **Problem Statement:** `SDGIOTP001` &nbsp;•&nbsp; **SDG 3** Good Health & Well-being &nbsp;•&nbsp; **SDG 11** Sustainable Cities
 
